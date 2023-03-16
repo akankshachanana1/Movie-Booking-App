@@ -1,4 +1,5 @@
 # Movie-Booking-App
+Check it out
 https://akankshachanana1.github.io/Movie-Booking-App/
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
